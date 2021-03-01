@@ -66,6 +66,6 @@ static void  linha() {
 	
 	}while(opcao!=4);
 	
-		}
- 	}
+	}
+ }
 }
